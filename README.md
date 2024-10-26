@@ -30,9 +30,13 @@
   Requirements:
   
   Python
+  
   Spotipy
+  
   Streamlit
+  
   scikit-learn
+  
   NLTK
 
 
