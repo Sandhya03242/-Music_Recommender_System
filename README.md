@@ -1,8 +1,7 @@
 🎶 Music Recommender System
 
-   This project is a Music Recommender System that suggests songs based on user input using Natural Language Processing(NLP)
-   and Machine Learning techniques. It utilizes TF-IDF Vectorization and cosine similarity to find similar songs, and
-   Spotify's API to retrieve album cover images.
+   This project is a Music Recommender System that suggests songs based on user input using Natural Language Processing (NLP)
+   and Machine Learning techniques. It utilizes TF-IDF Vectorization and cosine similarity to find similar songs, and Spotify's API to retrieve album cover images.
 
 📌 Table of Contents
 
