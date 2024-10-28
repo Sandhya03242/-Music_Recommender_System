@@ -6,6 +6,8 @@
 📌 Table of Contents
 
    Project Overview
+
+   Features
    
    Dataset
    
